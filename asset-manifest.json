@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/react.github.io/static/css/main.3c958fee.chunk.css",
+    "main.js": "/react.github.io/static/js/main.1927a225.chunk.js",
+    "main.js.map": "/react.github.io/static/js/main.1927a225.chunk.js.map",
+    "runtime-main.js": "/react.github.io/static/js/runtime-main.48c187bd.js",
+    "runtime-main.js.map": "/react.github.io/static/js/runtime-main.48c187bd.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/react.github.io/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.2cf8d8b8.chunk.js": "/react.github.io/static/js/2.2cf8d8b8.chunk.js",
+    "static/js/2.2cf8d8b8.chunk.js.map": "/react.github.io/static/js/2.2cf8d8b8.chunk.js.map",
+    "static/js/3.c5e7cb96.chunk.js": "/react.github.io/static/js/3.c5e7cb96.chunk.js",
+    "static/js/3.c5e7cb96.chunk.js.map": "/react.github.io/static/js/3.c5e7cb96.chunk.js.map",
+    "index.html": "/react.github.io/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/react.github.io/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.3c958fee.chunk.css.map": "/react.github.io/static/css/main.3c958fee.chunk.css.map",
+    "static/js/2.2cf8d8b8.chunk.js.LICENSE.txt": "/react.github.io/static/js/2.2cf8d8b8.chunk.js.LICENSE.txt",
+    "static/media/Abhinav-C.V.dbeb04e7.pdf": "/react.github.io/static/media/Abhinav-C.V.dbeb04e7.pdf",
+    "static/media/about.dec00836.png": "/react.github.io/static/media/about.dec00836.png",
+    "static/media/avatar.5852f40f.svg": "/react.github.io/static/media/avatar.5852f40f.svg",
+    "static/media/style.css": "/react.github.io/static/media/pre.a2ec12a5.gif",
+    "static/media/home-main.c89d8d59.jpg": "/react.github.io/static/media/home-main.c89d8d59.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48c187bd.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.2cf8d8b8.chunk.js",
+    "static/css/main.3c958fee.chunk.css",
+    "static/js/main.1927a225.chunk.js"
+  ]
+}
