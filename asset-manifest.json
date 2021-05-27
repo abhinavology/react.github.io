@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react.github.io/static/css/main.3c958fee.chunk.css",
-    "main.js": "/react.github.io/static/js/main.1927a225.chunk.js",
-    "main.js.map": "/react.github.io/static/js/main.1927a225.chunk.js.map",
+    "main.js": "/react.github.io/static/js/main.e5ee3d8a.chunk.js",
+    "main.js.map": "/react.github.io/static/js/main.e5ee3d8a.chunk.js.map",
     "runtime-main.js": "/react.github.io/static/js/runtime-main.48c187bd.js",
     "runtime-main.js.map": "/react.github.io/static/js/runtime-main.48c187bd.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/react.github.io/static/css/2.20aa2d7b.chunk.css",
@@ -18,13 +18,14 @@
     "static/media/about.dec00836.png": "/react.github.io/static/media/about.dec00836.png",
     "static/media/avatar.5852f40f.svg": "/react.github.io/static/media/avatar.5852f40f.svg",
     "static/media/style.css": "/react.github.io/static/media/pre.a2ec12a5.gif",
-    "static/media/home-main.c89d8d59.jpg": "/react.github.io/static/media/home-main.c89d8d59.jpg"
+    "static/media/home-main.c89d8d59.jpg": "/react.github.io/static/media/home-main.c89d8d59.jpg",
+    "static/media/logo.1380f635.png": "/react.github.io/static/media/logo.1380f635.png"
   },
   "entrypoints": [
     "static/js/runtime-main.48c187bd.js",
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.2cf8d8b8.chunk.js",
     "static/css/main.3c958fee.chunk.css",
-    "static/js/main.1927a225.chunk.js"
+    "static/js/main.e5ee3d8a.chunk.js"
   ]
 }
